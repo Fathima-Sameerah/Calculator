@@ -20,5 +20,25 @@ A **Simple Calculator** built using **HTML** and **CSS**. This project is design
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Screenshot
+![image](https://github.com/user-attachments/assets/9ce0768e-f5a5-4a13-aa87-48dfa8924e21)
+
+## Live Demo 
+https://fathima-sameerah.github.io/Calculator/
+
+---
+
+## 🌟 Features to Improve (Future Enhancements)
+Add JavaScript for dynamic functionality.
+Include scientific operations (e.g., square root, exponentiation).
+Enhance accessibility for better usability.
+
+---
+
+## 👩‍💻 Author
+Your Name - Fathima Sameerah
+
+
+
+
 
